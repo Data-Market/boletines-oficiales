@@ -30,11 +30,14 @@ A continuación se muestran las columnas de las que consta el dataset junto con 
 
 | nombre | tipo | descripción | ejemplo |
 |--------|------|-------------|---------|
-| category | str | Categoría del producto. | marisco_y_pescado_pescado_congelado |
-| description | str | Información adicional del producto (formato de empaquetado, etc.). | Pack-2 |
-| insert_date | datetime | Fecha de extracción de la información. | 2020-09-23 14:15:00 |
-| name | str | Nombre del producto. | Anguriñas de surimi Pescanova |
-| price | float | Precio absoluto del producto. En caso de existir algún tipo de descuento aparecerá el menor precio disponible. | 1.99 |
-| reference_price | float | Precio unitario (por unidad de medida del producto, €/Kg, €/L, etc.). | 7.96 |
-| reference_unit  | str | Unidad de referencia del producto (Kg, L, etc.). | kg |
-| supermarket | str | Supermercado al que pertenece el producto. | 433463D95980C252B92C204E3655BB81 |
+| author | str | Entidad pública responsable de redactar la iniciativa perteneciente al Boletín Oficial. | Consejería de la Presidencia, Administración Pública e Interior |
+| boe_ca | str | Comunidad autónoma del Boletín Oficial. | Andalucía |
+| boe_id | str | Identificación del Boletín Oficial. | BOJA |
+| boe_number | int | Número del Boletín Oficial. | 51 |
+| date | datetime | Fecha de publicación del Boletín Oficial. | 2021-03-17 |
+| initiative_header | str | Título descriptivo de la iniciativa perteneciente al Boletín Oficial. | Resolución de 12 de marzo de 2021, de la Dirección General de Recursos Humanos y Función Pública,... |
+| initiative_text  | str | Texto completo de la iniciativa perteneciente al Boletín Oficial. | "De conformidad con lo establecido en la base séptima.2 de la Resolución de 10 de diciembre de 20... |
+| initiative_type | str | Tipo de iniciativa del Boletín Oficial (orden, extracto, resolución...). | Resolución |
+| section | str | Título de la sección del Boletín Oficial. | 2. Autoridades y personal |
+| subsection | str | Título de la subsección del Boletín Oficial. | 2.2 Oposiciones, concursos y otras convocatorias |
+| url | str | Url de la iniciativa perteneciente al Boletín Oficial. | https://www.juntadeandalucia.es/boja/2021/51/11 |
