@@ -22,7 +22,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/boletines-oficiales/blob/main/boletines-oficiales-sample.csv).
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/boletines_oficiales/blob/main/boletines-oficiales-sample.csv).
 
 ## Documentación
 
