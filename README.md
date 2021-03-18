@@ -10,7 +10,7 @@ Todos los __tipos de Boletines Oficiales de España.__ Contiene 17 Boletines Ofi
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 24h
-* __Volumen estimado__: 30.000 registros cada día
+* __Volumen estimado__: 3.000 registros cada día
 * __Histórico__: 
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#boletines-oficiales-dataset), plataforma de referencia de datos externos en España. 
