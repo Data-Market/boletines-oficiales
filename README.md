@@ -11,7 +11,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 24h
 * __Volumen estimado__: 3.000 registros cada día
-* __Histórico__: 
+* __Histórico__: disponible desde enero de 2010 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#boletines-oficiales-dataset), plataforma de referencia de datos externos en España. 
 
